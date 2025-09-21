@@ -78,13 +78,13 @@ module.exports = {
     DELETE_LINKS: process.env.DELETE_LINKS || "false",
     // automatic delete links without removing member 
 
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "94721584279",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "27767494368, 27703835258",
     // add your bot owner number
 
-    OWNER_NAME: process.env.OWNER_NAME || "ɴɪᴍᴇꜱʜᴋᴀ࿐",
+    OWNER_NAME: process.env.OWNER_NAME || "♤𝗑ᴾᴿᴼ♧࿐",
     // add bot owner name
 
-    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴɪᴍᴇꜱʜᴋᴀ ᴍɪʜɪʀᴀᴍ*",
+    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ♤𝗑ᴾᴿᴼ♧*",
     // add bot owner description  
 
     READ_MESSAGE: process.env.READ_MESSAGE || "false",
@@ -146,10 +146,10 @@ https://youtube.com/@MihirangaMihiranga-k1k
 https://github.com/Nimeshkamihiran/neno-xmd-V3
 
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴɪᴍᴇꜱʜᴋᴀ ᴍɪʜɪʀᴀɴ💖😍`,
-OWNER_DISPLAY: process.env.OWNER_DISPLAY || "Nimeshka Mihiran",
+OWNER_DISPLAY: process.env.OWNER_DISPLAY || "♤𝗑ᴾᴿᴼ♧",
     
 DOWNLOAD_DIR: process.env.DOWNLOAD_DIR || "./downloaded_status",
 
   // Timezone
-TIMEZONE: process.env.TIMEZONE || "Asia/Colombo"
+TIMEZONE: process.env.TIMEZONE || "Asia/Johannesburg"
 };
